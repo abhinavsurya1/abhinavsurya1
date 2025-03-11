@@ -1,14 +1,10 @@
 ### Hey there, I'm Abhinav Surya! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavsurya1&color=blueviolet&style=flat-square)
-
----
-
 ### 🚀 About Me
 
 - 👨‍💻 Tech Enthusiast | Software Developer | AI/ML Explorer  
 - 🎯 Currently sharpening my problem-solving skills & building cool projects  
-- 🏆 Competitive Programmer | **Codeforces Div 3 & 4** participant  
+- 🏆 Competitive Programmer  
 - 📚 Learning **Machine Learning & AI Automation**  
 - ⚡ Fun Fact: I turn ☕ into code & debug dreams into reality!  
 
