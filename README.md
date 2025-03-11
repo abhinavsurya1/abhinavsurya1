@@ -14,9 +14,15 @@
 
 ---
 
-### 🏅 LeetCode Badges
+### 🏅 LeetCode Badges & Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/abhinavsurya?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/abhinavsurya/)
+
+#### 🏆 My LeetCode Badges
+
+![LeetCode Badge 1](https://leetcode-badge-api.herokuapp.com/badge/monthly/abhinavsurya)  
+![LeetCode Badge 2](https://leetcode-badge-api.herokuapp.com/badge/contest/abhinavsurya)  
+![LeetCode Badge 3](https://leetcode-badge-api.herokuapp.com/badge/alltime/abhinavsurya)  
 
 ---
 
