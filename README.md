@@ -6,7 +6,7 @@
 - 🎯 Currently sharpening my problem-solving skills & building cool projects  
 - 🏆 Competitive Programmer  
 - 📚 Learning **Machine Learning & AI Automation**  
-- ⚡ Fun Fact: I turn ☕ into code & debug dreams into reality!  
+- ⚡ I turn ☕ into code & debug dreams into reality!  
 
 ---
 
@@ -25,6 +25,12 @@
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Django]("https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white")
+![HTML]("https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white")
+![CSS]("https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white")
+![JavaScript]("https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black")
+![Twilio]("https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white")
+![Bootstrap]("https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white")
 
 ---
 
