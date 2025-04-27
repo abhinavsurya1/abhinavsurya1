@@ -1,44 +1,78 @@
-### Hey there, I'm Abhinav Surya! 👋
+# <div align="center">👨‍💻 ABHINAV SURYA</div>
 
-### 🚀 About Me
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=550&lines=Tech+Enthusiast+%7C+Software+Developer;AI%2FML+Explorer+%7C+Competitive+Programmer;Turning+%E2%98%95+into+code+%26+debugging+dreams!)
 
-- 👨‍💻 Tech Enthusiast | Software Developer | AI/ML Explorer  
-- 🎯 Currently sharpening my problem-solving skills & building cool projects  
-- 🏆 Competitive Programmer  
-- 📚 Learning **Machine Learning & AI Automation**  
-- ⚡ I turn ☕ into code & debug dreams into reality!  
+</div>
 
----
+## 🚀 About Me
 
-### 🏅 LeetCode Badges & Stats
+> *"I don't solve problems, I eliminate their existence."*
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abhinavsurya?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/abhinavsurya/)
+I'm a passionate software developer and tech enthusiast focused on creating elegant solutions to complex problems. Currently diving deep into AI/ML automation while expanding my competitive programming skills.
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsurya1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### 🛠️ Tech Stack
+## 💻 LeetCode Journey
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<div align="center">
+  
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/abhinavsurya?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/abhinavsurya/)
+  
+</div>
 
+## 🛠️ Tech Arsenal
 
-### 📬 Connect with Me
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Programming</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,python,java" alt="Programming Languages" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Web Development</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,django,bootstrap" alt="Web Technologies" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools & Infrastructure</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=docker,postgres,git" alt="DevOps Tools" />
+        <br>
+        <img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavsurya/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/abhinavsurya/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhinavsurya1)  
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsurya1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsurya1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
 
-🚀 **Let's build something amazing together!** 
+## 🌟 Current Focus
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Abhinav Surya"
+        self.role = "Software Developer"
+        self.languages = ["C++", "Python", "Java"]
+        self.interests = ["AI/ML", "Competitive Programming", "System Design"]
+        self.currently_learning = ["Machine Learning", "AI Automation"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = Developer()
+me.say_hi()
