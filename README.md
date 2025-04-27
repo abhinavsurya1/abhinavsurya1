@@ -1,4 +1,6 @@
-# <div align="center">⚡ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=ABHINAV+SURYA" alt="ABHINAV SURYA" /> ⚡</div>
+# <div align="center" style="font-size: 50px; font-weight: bold; color: #00FFCC; text-shadow: 0px 0px 10px rgba(0, 255, 204, 0.8), 0px 0px 20px rgba(0, 255, 204, 0.6), 0px 0px 30px rgba(0, 255, 204, 0.4);">⚡ ABHINAV SURYA ⚡</div>
+
+
 
 <div align="center">
   
