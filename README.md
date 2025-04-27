@@ -1,78 +1,73 @@
-# <div align="center">👨‍💻 ABHINAV SURYA</div>
+# <div align="center">⚡ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=ABHINAV+SURYA" alt="ABHINAV SURYA" /> ⚡</div>
 
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=550&lines=Tech+Enthusiast+%7C+Software+Developer;AI%2FML+Explorer+%7C+Competitive+Programmer;Turning+%E2%98%95+into+code+%26+debugging+dreams!)
 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  
 </div>
+
+---
 
 ## 🚀 About Me
 
-> *"I don't solve problems, I eliminate their existence."*
+> *"While others fix bugs, I architect new realities."*
 
-I'm a passionate software developer and tech enthusiast focused on creating elegant solutions to complex problems. Currently diving deep into AI/ML automation while expanding my competitive programming skills.
+Hi, I'm **Abhinav Surya**,  
+a **Software Craftsman**, a **Tech Explorer**, and an unstoppable force in the world of **Competitive Programming** and **AI/ML Automation**.
+
+- 🔥 **Code** is my canvas, **Solutions** are my art.
+- 🔍 Always in search of the next **impossible** challenge.
+- 🧠 **Learning** never stops — **Building** never ends.
+
+---
+
+## 🧠 Competitive Programming Mastery
+
+<div align="center">
+
+| Platform | My Profile |
+|:---:|:---:|
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhinavsurya/) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhinavsurya) | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhinavsurya) |
+
+<br>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abhinavsurya?theme=unicorn&font=Fira+Code&ext=contest)](https://leetcode.com/abhinavsurya/)
+
+</div>
+
+---
+
+## 🛠️ My Tech 
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,django,bootstrap,docker,postgres,git" alt="Tech Stack" />
+  
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsurya1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
 </p>
 
-## 💻 LeetCode Journey
+---
 
-<div align="center">
-  
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/abhinavsurya?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/abhinavsurya/)
-  
-</div>
-
-## 🛠️ Tech Arsenal
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Programming</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,python,java" alt="Programming Languages" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Web Development</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,django,bootstrap" alt="Web Technologies" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools & Infrastructure</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=docker,postgres,git" alt="DevOps Tools" />
-        <br>
-        <img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-        <img src="https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsurya1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsurya1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-## 🌟 Current Focus
+## 🌟 Current Mission
 
 ```python
-class Developer:
+class DeveloperUltraInstinct:
     def __init__(self):
         self.name = "Abhinav Surya"
-        self.role = "Software Developer"
-        self.languages = ["C++", "Python", "Java"]
-        self.interests = ["AI/ML", "Competitive Programming", "System Design"]
-        self.currently_learning = ["Machine Learning", "AI Automation"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        self.title = "Software Developer ⚡"
+        self.skills = ["AI/ML", "Automation", "Competitive Programming"]
+        self.focus = ["Building Scalable Systems", "Mastering Deep Learning"]
+        self.power_level = "Over 9000! 🔥"
+    
+    def train(self):
+        print("Coding, Solving, Learning, Repeating... 🚀")
 
-me = Developer()
-me.say_hi()
+me = DeveloperUltraInstinct()
+me.train()
