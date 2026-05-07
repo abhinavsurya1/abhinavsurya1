@@ -2,7 +2,7 @@
 
 # Abhinav Surya
 
-**Frontend Engineer · UI/UX · Full-Stack · AI/ML**
+**Software Engineer · UI/UX · Full-Stack · AI/ML**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-flame-36.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-surya/)
