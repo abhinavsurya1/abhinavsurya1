@@ -34,8 +34,8 @@ A multi-surface booking platform with a marketing website, a full-featured web p
 | Scheduler | [schedule.jusbook.com](https://schedule.jusbook.com) | React |
 | Android App | [Play Store](https://play.google.com/store/apps/details?id=com.jusbook.platform) | React Native |
 
-### [Nirapad](https://nirapad9.com) — Safety Platform
-A web application focused on personal safety. I handled the complete frontend, including UI architecture, responsive design, and user experience flows.
+### [Nirapad](https://nirapad9.com) — Staffing Platform
+A web application focused on staffing. I handled the complete frontend, including UI architecture, responsive design, and user experience flows.
 
 | Surface | URL |
 |---|---|
