@@ -14,7 +14,7 @@
 
 ---
 
-I build interfaces that ship — from design system to production. My work spans booking platforms, scheduling tools, safety applications, and native mobile apps. I take ownership of the complete frontend: architecture, component design, responsive behavior, performance, and deployment.
+I build interfaces that ship — from design system to production. My work spans booking platforms, scheduling tools, real-time dashboards and native mobile apps. I take ownership of the complete frontend: architecture, component design, responsive behavior, performance, and deployment.
 
 Currently exploring AI/ML integration in product workflows and competitive programming for sharper algorithmic thinking.
 
